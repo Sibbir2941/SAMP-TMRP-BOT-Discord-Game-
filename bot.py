@@ -45,7 +45,7 @@ def connectdatabase():
 server_ip = "154.6.205.30"
 server_port = 7777
 
-bot_token = "MTA5MTMyOTY4MTMwOTA0ODg4Mg.GwsWL3.AJNsUvdu_vDvy_Aq35wA-iqzv13Z9wH4wVfLXQ"
+bot_token = ""
 channel_id = 1091786250635202621
 
 
